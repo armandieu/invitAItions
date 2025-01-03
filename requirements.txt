@@ -1,0 +1,17 @@
+jsonschema==4.17.1
+pathlib
+plotly==5.11.0
+matplotlib==3.6.2
+pandas==1.5.2
+shiny==0.6.1.1
+joblib==1.2.0
+seaborn==0.12.1
+numpy==1.23.5
+scikit-learn==1.3.0
+xgboost==1.7.2
+cloudpickle==2.2.1
+more-itertools==10.1.0
+openpyxl
+shinyswatch
+Werkzeug==2.3.7
+Flask==2.0.1

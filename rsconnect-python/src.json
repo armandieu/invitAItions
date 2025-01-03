@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "E:\\My Drive\\Dsba\\04 M2 T1\\Marketing Analytics\\00 Projects\\Topic 1 Segmentation and Recommender-20240102\\Final Version\\Dashboard\\src3\\src",
+        "app_url": "https://essec-dsba-marketing.shinyapps.io/segm_crm_dashboard_final1/",
+        "app_id": 10887745,
+        "app_guid": null,
+        "title": "segm_crm_dashboard_final",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
